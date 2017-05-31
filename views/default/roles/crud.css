@@ -1,0 +1,22 @@
+.roles-crud-table td:first-child,
+.roles-crud-table th:first-child {
+    width: 300px;
+    text-align: left;
+}
+
+.roles-crud-table td,
+.roles-crud-table th {
+    padding: 8px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.roles-crud-title {
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 0 10px;
+}
+
+.roles-crud-table .elgg-field {
+    margin: 0;
+}
